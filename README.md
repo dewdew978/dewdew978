@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dewdew978
-- 👀 I’m interested in risk mag
 
 
 <!---
