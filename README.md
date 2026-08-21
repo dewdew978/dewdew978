@@ -3,11 +3,6 @@
 
 - 📫 How to reach me **pawaritpansing@gmail.com**
 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewdew978&theme=radical" alt="GitHub Streak" />
-</p>
 
 <!---
 dewdew978/dewdew978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
