@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pawarit Pansing</h1>
 <h3 align="center">A Student from Thailand</h3>
 
+<p align="center">
+  <img src="./assets/dither-butterfly.svg" alt="dithered butterfly on flowers" width="368">
+</p>
+
 - 📫 How to reach me **pawaritpansing@gmail.com**
 
 
